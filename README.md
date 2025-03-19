@@ -4,28 +4,29 @@
 这时候你就可以休息一下，优雅地喝一杯咖啡。不要有内疚感，适当的休息可以让你的大脑重新充满活力，能面对更多挑战，更高效地完成工作，所以**请放心大胆地摸鱼吧**。
 
 ## 功能特性
-1. 显示Windows Update画面，进度更新速度随时间变慢，更新进度会卡在99%，模拟真实的 Windows 更新行为
+1. 显示Windows Update画面，进度更新速度随时间变慢，更新进度会卡在99%，模拟真实的Windows更新行为
 2. 隐藏鼠标指针
-3. 屏蔽alt+F4、alt+tab等常用快捷键操作
+3. 屏蔽alt+F4、alt+tab等常见快捷键
 4. 关闭资源管理器（退出程序后恢复）
-5. 
 
 ## 使用方法
 ### 1. 安装模块
-```bash
-    pip install -r requirement.txt
+```shell
+pip install -r requirement.txt
 ```
 ### 2. 运行程序
-```bash
-    python index.py
+```shell
+python index.py
 ```
 
 ## 退出程序
-```bash
-    使用快捷键ctrl+alt+esc退出画面
-
-    如果要修改快捷键，自行在源码修改（）
+```shell
+使用快捷键ctrl+alt+esc退出程序
+如果要修改快捷键，自行在源码修改（）
 ```
 
 ## 效果预览
 ![alt text](./static/images/preview.png)
+
+## 职场生存哲学
+**高效工作≠连轴转，科学摸鱼才是聪明人的选择。用这15分钟调整状态，比硬撑2小时产出更高~ 🐟🐟🐟**
