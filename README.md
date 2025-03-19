@@ -9,7 +9,9 @@
 3. 屏蔽alt+F4、alt+tab等常见快捷键
 4. 关闭资源管理器（退出程序后恢复）
 
-## 使用方法
+## 快速开始
+可以根据以下步骤运行源码或下载release中的可执行文件双击运行
+
 ### 1. 安装模块
 ```shell
 pip install -r requirement.txt
