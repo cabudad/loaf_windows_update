@@ -14,7 +14,7 @@
 
 ### 1. 克隆项目
 ```shell
-git close https://github.com/cabudad/loaf_windows_update.git
+git clone https://github.com/cabudad/loaf_windows_update.git
 ```
 ### 2. 安装模块
 ```shell
