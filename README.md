@@ -12,7 +12,11 @@
 ## 快速开始
 可以根据以下步骤运行源码或下载release中的可执行文件双击运行
 
-### 1. 安装模块
+### 1. 克隆项目
+```shell
+git close https://github.com/cabudad/loaf_windows_update.git
+```
+### 2. 安装模块
 ```shell
 pip install -r requirement.txt
 ```
